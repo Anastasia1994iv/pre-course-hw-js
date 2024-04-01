@@ -10,5 +10,5 @@ let passportMarried = {
 let newPassportMarried = structuredClone(passportMarried);
 newPassportMarried.married = true;
 
-console.log(passportMarried.married)
-console.log(newPassportMarried.married)
+console.log(passportMarried)
+console.log(newPassportMarried)
